@@ -1,0 +1,12 @@
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\bin\Debug\Interfazhospital.exe.config
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\bin\Debug\Interfazhospital.exe
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\bin\Debug\Interfazhospital.pdb
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.Form1.resources
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.Properties.Resources.resources
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.csproj.GenerateResource.cache
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.exe
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.pdb
+D:\Visual Studio\Proyectos\Interfazhospital\Interfazhospital\obj\Debug\Interfazhospital.Form2.resources
